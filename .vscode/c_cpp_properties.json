@@ -3,7 +3,8 @@
         {
             "name": "Win32",
             "includePath": [
-                "${workspaceFolder}/***"
+                "${workspaceFolder}/**",
+                "c:\\Program Files (x86)\\Microsoft Visual Studio 11.0\\VC\\include\\/**"
             ],
             "defines": [
                 "_DEBUG",
